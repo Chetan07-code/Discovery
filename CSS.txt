@@ -9,4 +9,4 @@ css has different pereferences for css styling
 
 inline styling has highest prioirty
 
-external css has lowest priority
+external css has lowest priority.
