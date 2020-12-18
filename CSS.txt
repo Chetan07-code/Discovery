@@ -1,3 +1,8 @@
 WEelcome to CSS
 
 learning new css styles
+
+
+Different types of selectors
+
+css has different pereferences for css styling
