@@ -6,3 +6,5 @@ learning new css styles
 Different types of selectors
 
 css has different pereferences for css styling
+
+inline styling has highest prioirty
